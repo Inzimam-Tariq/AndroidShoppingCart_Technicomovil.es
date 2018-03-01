@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidShoppingCart_Opencart.com.iml" filepath="$PROJECT_DIR$/AndroidShoppingCart_Opencart.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidShoppingCart_Technicomovil.es.iml" filepath="$PROJECT_DIR$/AndroidShoppingCart_Technicomovil.es.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

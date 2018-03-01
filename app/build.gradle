@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
     buildToolsVersion "27.0.3"
     defaultConfig {
-        applicationId 'com.web2design.souqclone.app'
+        applicationId 'es.tecnicomovil.app'
         vectorDrawables.useSupportLibrary = true
         minSdkVersion 16
         targetSdkVersion 27

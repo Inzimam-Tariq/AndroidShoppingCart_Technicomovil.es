@@ -24,122 +24,83 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94b459bc-6d5f-48d4-a236-e62144de5db5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/uk_co_chrisjenx_calligraphy_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/ThemeUtils.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/MyContextWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/BaseActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragSlider.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidShoppingCart_Technicomovil.es.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/uk_co_chrisjenx_calligraphy_2_2_0.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/AddressBookAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/AddressBookAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CartDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CartDetailAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CategoryAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CategoryAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterCategory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterUser.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterUser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ItemAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ItemAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MainFragmentAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MainFragmentAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MyPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MyPagerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderDetailAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductImagePreviewAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductImagePreviewAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductOptionsAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductOptionsAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder1.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder2.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/FetchData.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/FetchData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SearchActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SearchActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SplashActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddAddress.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddAddress.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddressBook.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddressBook.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/Dashboard.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/Dashboard.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCartDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCartDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragChangePassword.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragChangePassword.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCheckout.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCheckout.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragContactUs.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragContactUs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragEditAccount.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragEditAccount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragForgotPass.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragForgotPass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragLogin.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragLogin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderHistory.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderHistory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProduct.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProduct.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProductDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProductDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragRegister.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragRegister.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragShowText.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragShowText.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MainFrag.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MainFrag.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MyBaseFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MyBaseFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_add_address.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_add_address.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_address_book.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_address_book.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_cart.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_cart.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_change_pass.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_change_pass.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_checkout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_checkout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_contact_us.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_contact_us.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_edit_account.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_edit_account.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_forgot_pass.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_forgot_pass.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_order_detail.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_order_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_order_history.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_order_history.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_product_detail.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_product_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_products.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_products.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_register.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_register.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag_show_text_data.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_show_text_data.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_alert_dialog.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_alert_dialog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_alert_dialog_input.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_alert_dialog_input.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_cart_new.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_cart_new.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_category.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_confirm_cart_new.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_confirm_cart_new.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_main_frag_categories.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_main_frag_categories.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_order.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_order.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_category.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_user.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_user.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/slider_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/slider_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/toolbar_bottom.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/toolbar_top.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/AppConstants.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/AppConstants.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/MyApp.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyApp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/MyCountDownTimer.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyCountDownTimer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/Preferences.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Preferences.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/Utils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Utils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splash.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/splash_alhabib.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/AddressBookAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/AddressBookAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CartDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CartDetailAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CategoryAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CategoryAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterCategory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterUser.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterUser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ItemAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ItemAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MainFragmentAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MainFragmentAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MyPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MyPagerAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderDetailAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductImagePreviewAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductImagePreviewAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductOptionsAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductOptionsAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/SubCatAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder1.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder2.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Address.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Address.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Country.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Country.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MenuCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MenuCategory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MenuSubCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MenuSubCategory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyCartDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyCartDetail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyCategory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyOrder.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyOrderDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyOrderDetail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyPromotion.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyPromotion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Options.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Options.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/PaymentMethod.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/PaymentMethod.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Product.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Product.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/ProductOptionValueItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/ProductOptionValueItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Reviews.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Reviews.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/ShippingMethod.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/ShippingMethod.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Slideshow.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Slideshow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/UserSubMenu.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/UserSubMenu.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/AppConstants.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyApp.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/MyApp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyCountDownTimer.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/MyCountDownTimer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Preferences.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Preferences.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/ThemeUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/ThemeUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Utils.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Utils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/FetchData.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/FetchData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SearchActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SearchActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SplashActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddAddress.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddAddress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddressBook.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddressBook.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/Dashboard.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/Dashboard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCartDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCartDetail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragChangePassword.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragChangePassword.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCheckout.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCheckout.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragContactUs.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragContactUs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragEditAccount.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragEditAccount.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragForgotPass.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragForgotPass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragLogin.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragLogin.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderDetail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderHistory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderHistory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProduct.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProduct.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProductDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProductDetail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragRegister.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragRegister.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragShowText.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragShowText.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MainFrag.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/MainFrag.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MyBaseFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/MyBaseFragment.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -191,61 +152,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2728">
-              <caret line="206" column="54" lean-forward="false" selection-start-line="206" selection-start-column="54" selection-end-line="206" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubCatAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="65" column="71" lean-forward="false" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2816">
-              <caret line="191" column="25" lean-forward="false" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FragProduct.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="98" column="8" lean-forward="false" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frag_products.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/frag_products.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -327,14 +234,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="AndroidShoppingCart_Opencart.com" />
+              <option name="name" value="AndroidShoppingCart_Technicomovil.es" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="AndroidShoppingCart_Opencart.com" />
+                <option name="name" value="AndroidShoppingCart_Technicomovil.es" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -356,7 +263,7 @@
                 <option name="name" value="splitsDiscoveryTaskDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'AndroidShoppingCart_Opencart.com'." />
+                <option name="description" value="Displays the sub-projects of root project 'AndroidShoppingCart_Technicomovil.es'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -394,7 +301,7 @@
                 <option name="name" value="assembleDebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'AndroidShoppingCart_Opencart.com'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'AndroidShoppingCart_Technicomovil.es'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -412,7 +319,7 @@
                 <option name="name" value="bundleAppClassesDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'AndroidShoppingCart_Opencart.com' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'AndroidShoppingCart_Technicomovil.es' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -431,7 +338,7 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'AndroidShoppingCart_Opencart.com'." />
+                <option name="description" value="Displays all dependencies declared in root project 'AndroidShoppingCart_Technicomovil.es'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -504,7 +411,7 @@
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'AndroidShoppingCart_Opencart.com'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'AndroidShoppingCart_Technicomovil.es'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -621,7 +528,7 @@
                 <option name="name" value="uninstallDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'AndroidShoppingCart_Opencart.com'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'AndroidShoppingCart_Technicomovil.es'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -898,12 +805,12 @@
                 <option name="name" value="transformDexArchiveWithDexMergerForDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'AndroidShoppingCart_Opencart.com'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'AndroidShoppingCart_Technicomovil.es'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'AndroidShoppingCart_Opencart.com'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'AndroidShoppingCart_Technicomovil.es'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -1026,7 +933,7 @@
                 <option name="name" value="generateReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'AndroidShoppingCart_Opencart.com'." />
+                <option name="description" value="Displays the properties of root project 'AndroidShoppingCart_Technicomovil.es'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -1876,7 +1783,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="AndroidShoppingCart_Opencart.com" />
+              <option name="name" value="AndroidShoppingCart_Technicomovil.es" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/announce" />
@@ -2027,57 +1934,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_cart.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_change_pass.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_checkout.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_contact_us.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_edit_account.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_forgot_pass.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_login.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_order_detail.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_order_history.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_product_detail.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_register.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_show_text_data.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_alert_dialog.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_alert_dialog_input.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_cart_new.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_confirm_cart_new.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_order.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyContextWrapper.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Utils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SearchActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MainFragmentAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder1.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder2.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_main_frag_categories.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/AppConstants.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/slider_layout.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragSlider.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterUser.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_category.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MainFrag.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyApp.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/ThemeUtils.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SplashActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_user.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_category.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/toolbar_bottom.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/toolbar_top.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProduct.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_products.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterCategory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/AddressBookAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CategoryAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CartDetailAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/MainFrag.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragShowText.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragRegister.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProductDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProduct.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderHistory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterUser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MainFragmentAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder1.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/SubCatAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductOptionsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductImagePreviewAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderDetailAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MyPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ItemAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/MyApp.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/ThemeUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SearchActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/FetchData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragLogin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragEditAccount.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragContactUs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCheckout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragChangePassword.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCartDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/Dashboard.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddressBook.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddAddress.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragForgotPass.java" />
       </list>
     </option>
   </component>
@@ -2134,7 +2041,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2293,17 +2200,56 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AndroidShoppingCart_Opencart.com" />
+              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -2318,13 +2264,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.general" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PharmacySurvey_SKAFS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="192.168.1.2:5555" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
     <property name="SearchEverywhereHistoryKey" value="styles&#9;PSI&#9;JAVA://com.kofigyan.stateprogressbar.R.styleable#AppCompatTheme_ratingBarStyleSmall&#10;plugin&#9;ACTION&#9;WelcomeScreen.Plugins" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="android.project.structure.last.selected" value="app" />
@@ -2345,6 +2292,7 @@
       <recent name="E:\Inzimam_Tariq\Android_Work\Android-Shopping-Cart\app\src\main\res\drawable" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="es.tecnicomovil.app" />
       <recent name="com.web2design.souqclone.app" />
       <recent name="" />
     </key>
@@ -2438,7 +2386,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519825173010" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519887905292" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2486,7 +2434,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519825173010" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519887905293" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2518,6 +2466,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2648,7 +2617,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519825173012" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519887905295" />
       </method>
     </configuration>
     <list size="1">
@@ -2693,27 +2662,29 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.66939443" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5030257" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48772505" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5030257" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25037822" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48772505" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63829786" sideWeight="0.5030257" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31260228" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2723,8 +2694,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="StringPreview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25037822" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31260228" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2737,323 +2706,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_sub_category.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_totals.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/search_actionbar.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/slide.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/web2design/souqclone/app/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="5192" column="28" lean-forward="false" selection-start-line="5192" selection-start-column="28" selection-end-line="5192" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyContextWrapper.java" />
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/c5d31fc6d990429dddd12c3e02e97585/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="44" column="51" lean-forward="false" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SearchActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/frag_show_text_data.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MainFragmentAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14080">
-          <caret line="640" column="39" lean-forward="false" selection-start-line="640" selection-start-column="39" selection-end-line="640" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_main_frag_categories.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MyPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragSlider.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_group.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/experimental/theories/Theories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="167" column="24" lean-forward="false" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_category.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../SDK/sources/android-27/android/widget/ExpandableListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="862" column="16" lean-forward="false" selection-start-line="862" selection-start-column="16" selection-end-line="862" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2684">
-          <caret line="146" column="70" lean-forward="false" selection-start-line="146" selection-start-column="70" selection-end-line="146" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MainFrag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/slider_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/frag_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/ThemeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/AppConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SplashActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="84" column="51" lean-forward="false" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/splash_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/splash_port.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/splash_alhabib.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_user.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3094,42 +2746,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2728">
-          <caret line="206" column="54" lean-forward="false" selection-start-line="206" selection-start-column="54" selection-end-line="206" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="65" column="71" lean-forward="false" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2816">
-          <caret line="191" column="25" lean-forward="false" selection-start-line="191" selection-start-column="25" selection-end-line="191" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_expand_more_black.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MyBaseFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -3145,11 +2765,623 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProduct.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="98" column="8" lean-forward="false" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        <state relative-caret-position="44">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/AddressBookAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CartDetailAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CategoryAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/SubCatAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductOptionsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductImagePreviewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderDetailAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MyPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MainFragmentAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/MyApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/MyCountDownTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Preferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/ThemeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#4498#4515#0" expanded="true" />
+            <element signature="e#4517#4545#0" expanded="true" />
+            <element signature="e#4642#4653#0" expanded="true" />
+            <element signature="e#4705#4725#0" expanded="true" />
+            <element signature="e#5072#5089#0" expanded="true" />
+            <element signature="e#5091#5119#0" expanded="true" />
+            <element signature="e#5208#5219#0" expanded="true" />
+            <element signature="e#5267#5287#0" expanded="true" />
+            <element signature="e#9809#9826#0" expanded="true" />
+            <element signature="e#9828#9856#0" expanded="true" />
+            <element signature="e#9929#9940#0" expanded="true" />
+            <element signature="e#9980#10000#0" expanded="true" />
+            <element signature="e#10293#10310#0" expanded="true" />
+            <element signature="e#10312#10340#0" expanded="true" />
+            <element signature="e#10397#10408#0" expanded="true" />
+            <element signature="e#10440#10460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SearchActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <element signature="e#10097#10119#0" expanded="true" />
+            <element signature="e#10121#10147#0" expanded="true" />
+            <element signature="e#10211#10230#0" expanded="true" />
+            <element signature="e#10277#10306#0" expanded="true" />
+            <element signature="e#22569#22591#0" expanded="true" />
+            <element signature="e#24301#24335#0" expanded="true" />
+            <element signature="e#24353#24397#0" expanded="true" />
+            <element signature="e#24415#24454#0" expanded="true" />
+            <element signature="e#24490#24521#0" expanded="true" />
+            <element signature="e#24539#24580#0" expanded="true" />
+            <element signature="e#24598#24645#0" expanded="true" />
+            <element signature="e#24663#24705#0" expanded="true" />
+            <element signature="e#24723#24753#0" expanded="true" />
+            <element signature="e#24771#24810#0" expanded="true" />
+            <element signature="e#27304#27321#0" expanded="true" />
+            <element signature="e#27323#27351#0" expanded="true" />
+            <element signature="e#27408#27419#0" expanded="true" />
+            <element signature="e#27451#27471#0" expanded="true" />
+            <element signature="e#30996#31013#0" expanded="true" />
+            <element signature="e#31015#31043#0" expanded="true" />
+            <element signature="e#31100#31111#0" expanded="true" />
+            <element signature="e#31143#31163#0" expanded="true" />
+            <element signature="e#31558#31589#0" expanded="true" />
+            <element signature="e#31591#31623#0" expanded="true" />
+            <element signature="e#34309#34334#0" expanded="true" />
+            <element signature="e#34336#34362#0" expanded="true" />
+            <element signature="e#34419#34438#0" expanded="true" />
+            <element signature="e#34481#34498#0" expanded="true" />
+            <element signature="e#37774#37791#0" expanded="true" />
+            <element signature="e#37793#37821#0" expanded="true" />
+            <element signature="e#37894#37905#0" expanded="true" />
+            <element signature="e#37945#37965#0" expanded="true" />
+            <element signature="e#38183#38200#0" expanded="true" />
+            <element signature="e#38202#38230#0" expanded="true" />
+            <element signature="e#38303#38314#0" expanded="true" />
+            <element signature="e#38354#38374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/FetchData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ItemAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/MyBaseFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/MainFrag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragShowText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProductDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#7468#7485#0" expanded="true" />
+            <element signature="e#7487#7515#0" expanded="true" />
+            <element signature="e#7572#7583#0" expanded="true" />
+            <element signature="e#7615#7635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#7197#7222#0" expanded="true" />
+            <element signature="e#7300#7311#0" expanded="true" />
+            <element signature="e#7351#7371#0" expanded="true" />
+            <element signature="e#7602#7619#0" expanded="true" />
+            <element signature="e#7621#7649#0" expanded="true" />
+            <element signature="e#7706#7717#0" expanded="true" />
+            <element signature="e#7749#7769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragEditAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#5523#5548#0" expanded="true" />
+            <element signature="e#5626#5637#0" expanded="true" />
+            <element signature="e#5688#5708#0" expanded="true" />
+            <element signature="e#5985#6002#0" expanded="true" />
+            <element signature="e#6004#6032#0" expanded="true" />
+            <element signature="e#6089#6100#0" expanded="true" />
+            <element signature="e#6132#6152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#5700#5725#0" expanded="true" />
+            <element signature="e#5803#5814#0" expanded="true" />
+            <element signature="e#5854#5874#0" expanded="true" />
+            <element signature="e#6488#6513#0" expanded="true" />
+            <element signature="e#6593#6604#0" expanded="true" />
+            <element signature="e#6644#6664#0" expanded="true" />
+            <element signature="e#6957#6974#0" expanded="true" />
+            <element signature="e#6976#7004#0" expanded="true" />
+            <element signature="e#7061#7072#0" expanded="true" />
+            <element signature="e#7104#7124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCheckout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#7897#7922#0" expanded="true" />
+            <element signature="e#7952#7975#0" expanded="true" />
+            <element signature="e#8012#8023#0" expanded="true" />
+            <element signature="e#8059#8079#0" expanded="true" />
+            <element signature="e#8720#8745#0" expanded="true" />
+            <element signature="e#8779#8802#0" expanded="true" />
+            <element signature="e#8843#8854#0" expanded="true" />
+            <element signature="e#8894#8914#0" expanded="true" />
+            <element signature="e#11688#11709#0" expanded="true" />
+            <element signature="e#11880#11905#0" expanded="true" />
+            <element signature="e#11939#11970#0" expanded="true" />
+            <element signature="e#12011#12022#0" expanded="true" />
+            <element signature="e#12062#12082#0" expanded="true" />
+            <element signature="e#14632#14654#0" expanded="true" />
+            <element signature="e#17287#17305#0" expanded="true" />
+            <element signature="e#20446#20463#0" expanded="true" />
+            <element signature="e#20497#20524#0" expanded="true" />
+            <element signature="e#20565#20576#0" expanded="true" />
+            <element signature="e#20616#20636#0" expanded="true" />
+            <element signature="e#23194#23211#0" expanded="true" />
+            <element signature="e#23245#23271#0" expanded="true" />
+            <element signature="e#23312#23323#0" expanded="true" />
+            <element signature="e#23363#23383#0" expanded="true" />
+            <element signature="e#25693#25718#0" expanded="true" />
+            <element signature="e#25752#25776#0" expanded="true" />
+            <element signature="e#25817#25828#0" expanded="true" />
+            <element signature="e#25868#25888#0" expanded="true" />
+            <element signature="e#29991#30016#0" expanded="true" />
+            <element signature="e#30042#30058#0" expanded="true" />
+            <element signature="e#30091#30102#0" expanded="true" />
+            <element signature="e#30134#30154#0" expanded="true" />
+            <element signature="e#30541#30566#0" expanded="true" />
+            <element signature="e#30640#30651#0" expanded="true" />
+            <element signature="e#30687#30707#0" expanded="true" />
+            <element signature="e#30914#30931#0" expanded="true" />
+            <element signature="e#30953#30981#0" expanded="true" />
+            <element signature="e#31010#31021#0" expanded="true" />
+            <element signature="e#31049#31069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragChangePassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#2713#2738#0" expanded="true" />
+            <element signature="e#2740#2763#0" expanded="true" />
+            <element signature="e#2828#2839#0" expanded="true" />
+            <element signature="e#2875#2895#0" expanded="true" />
+            <element signature="e#5328#5353#0" expanded="true" />
+            <element signature="e#5435#5446#0" expanded="true" />
+            <element signature="e#5497#5517#0" expanded="true" />
+            <element signature="e#5974#5999#0" expanded="true" />
+            <element signature="e#6079#6090#0" expanded="true" />
+            <element signature="e#6130#6150#0" expanded="true" />
+            <element signature="e#6623#6648#0" expanded="true" />
+            <element signature="e#6730#6741#0" expanded="true" />
+            <element signature="e#6781#6801#0" expanded="true" />
+            <element signature="e#6879#6896#0" expanded="true" />
+            <element signature="e#6898#6926#0" expanded="true" />
+            <element signature="e#6999#7010#0" expanded="true" />
+            <element signature="e#7050#7070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCartDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#3327#3349#0" expanded="true" />
+            <element signature="e#3351#3377#0" expanded="true" />
+            <element signature="e#3441#3460#0" expanded="true" />
+            <element signature="e#3507#3536#0" expanded="true" />
+            <element signature="e#6156#6180#0" expanded="true" />
+            <element signature="e#6362#6376#0" expanded="true" />
+            <element signature="e#6486#6506#0" expanded="true" />
+            <element signature="e#6608#6634#0" expanded="true" />
+            <element signature="e#8273#8298#0" expanded="true" />
+            <element signature="e#8300#8326#0" expanded="true" />
+            <element signature="e#8391#8402#0" expanded="true" />
+            <element signature="e#8438#8458#0" expanded="true" />
+            <element signature="e#10060#10085#0" expanded="true" />
+            <element signature="e#10087#10111#0" expanded="true" />
+            <element signature="e#10191#10202#0" expanded="true" />
+            <element signature="e#10246#10266#0" expanded="true" />
+            <element signature="e#14679#14704#0" expanded="true" />
+            <element signature="e#14782#14793#0" expanded="true" />
+            <element signature="e#14833#14853#0" expanded="true" />
+            <element signature="e#15084#15101#0" expanded="true" />
+            <element signature="e#15103#15131#0" expanded="true" />
+            <element signature="e#15188#15199#0" expanded="true" />
+            <element signature="e#15231#15251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/Dashboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddressBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#2022#2051#0" expanded="true" />
+            <element signature="e#3969#3997#0" expanded="true" />
+            <element signature="e#4075#4100#0" expanded="true" />
+            <element signature="e#4102#4130#0" expanded="true" />
+            <element signature="e#4211#4222#0" expanded="true" />
+            <element signature="e#4266#4286#0" expanded="true" />
+            <element signature="e#6194#6219#0" expanded="true" />
+            <element signature="e#6293#6304#0" expanded="true" />
+            <element signature="e#6340#6360#0" expanded="true" />
+            <element signature="e#6548#6565#0" expanded="true" />
+            <element signature="e#6567#6595#0" expanded="true" />
+            <element signature="e#6652#6663#0" expanded="true" />
+            <element signature="e#6695#6715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#2928#2954#0" expanded="true" />
+            <element signature="e#7284#7301#0" expanded="true" />
+            <element signature="e#7303#7331#0" expanded="true" />
+            <element signature="e#7420#7431#0" expanded="true" />
+            <element signature="e#7479#7499#0" expanded="true" />
+            <element signature="e#7913#7938#0" expanded="true" />
+            <element signature="e#8020#8031#0" expanded="true" />
+            <element signature="e#8071#8091#0" expanded="true" />
+            <element signature="e#8227#8244#0" expanded="true" />
+            <element signature="e#8246#8274#0" expanded="true" />
+            <element signature="e#8339#8350#0" expanded="true" />
+            <element signature="e#8386#8406#0" expanded="true" />
+            <element signature="e#8486#8503#0" expanded="true" />
+            <element signature="e#8505#8533#0" expanded="true" />
+            <element signature="e#8590#8601#0" expanded="true" />
+            <element signature="e#8633#8653#0" expanded="true" />
+            <element signature="e#8958#8981#0" expanded="true" />
+            <element signature="e#9993#10014#0" expanded="true" />
+            <element signature="e#11909#11934#0" expanded="true" />
+            <element signature="e#11936#11957#0" expanded="true" />
+            <element signature="e#12022#12033#0" expanded="true" />
+            <element signature="e#12069#12089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragForgotPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#3454#3479#0" expanded="true" />
+            <element signature="e#3557#3568#0" expanded="true" />
+            <element signature="e#3608#3628#0" expanded="true" />
+            <element signature="e#4087#4112#0" expanded="true" />
+            <element signature="e#4190#4201#0" expanded="true" />
+            <element signature="e#4241#4261#0" expanded="true" />
+            <element signature="e#4492#4509#0" expanded="true" />
+            <element signature="e#4511#4539#0" expanded="true" />
+            <element signature="e#4596#4607#0" expanded="true" />
+            <element signature="e#4639#4659#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
