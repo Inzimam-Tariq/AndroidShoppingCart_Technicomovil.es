@@ -24,83 +24,450 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94b459bc-6d5f-48d4-a236-e62144de5db5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidShoppingCart_Technicomovil.es.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/uk_co_chrisjenx_calligraphy_2_2_0.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tecnicomovil_splash.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-06-50-863.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-06-50-863.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-09-40-462.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-09-40-462.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-14-43-606.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-14-43-606.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-21-43-494.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-21-43-494.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-23-28-072.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-18-23-28-072.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-19-12-23-114.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-19-12-23-114.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-19-14-08-702.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-23-19-14-08-702.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-10-27-15-073.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-10-27-15-073.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-10-27-39-114.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-10-27-39-114.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-10-29-51-681.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-10-29-51-681.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-05-10-306.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-05-10-306.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-05-36-185.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-05-36-185.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-09-22-086.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-09-22-086.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-12-17-069.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-12-17-069.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-29-39-134.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-29-39-134.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-45-46-762.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-45-46-762.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-47-43-304.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-11-47-43-304.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-19-04-036.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-19-04-036.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-22-09-944.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-22-09-944.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-23-12-868.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-23-12-868.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-27-36-801.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-27-36-801.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-30-26-365.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-30-26-365.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-36-08-435.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-36-08-435.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-38-43-238.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-38-43-238.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-42-43-860.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-42-43-860.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-43-52-283.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-43-52-283.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-44-41-718.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-44-41-718.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-45-29-180.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-45-29-180.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-53-56-714.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-53-56-714.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-55-43-748.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-55-43-748.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-56-55-392.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-56-55-392.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-59-01-244.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-59-01-244.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-59-28-599.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-59-28-599.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-59-59-922.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-12-59-59-922.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-13-00-41-373.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-13-00-41-373.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-13-09-544.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-13-09-544.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-15-25-418.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-15-25-418.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-38-58-376.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-38-58-376.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-48-23-644.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-15-48-23-644.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-16-08-17-720.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-16-08-17-720.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-16-10-53-337.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-16-10-53-337.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-22-58-47-717.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-22-58-47-717.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-22-59-58-226.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-24-22-59-58-226.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-09-28-18-604.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-09-28-18-604.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-09-28-41-542.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-09-28-41-542.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-13-41-368.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-13-41-368.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-16-56-181.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-16-56-181.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-18-44-377.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-18-44-377.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-20-51-439.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-20-51-439.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-25-53-346.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-25-53-346.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-56-32-339.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-11-56-32-339.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-12-12-33-373.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-12-12-33-373.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-22-35-865.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-22-35-865.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-23-44-181.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-23-44-181.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-24-22-598.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-24-22-598.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-37-40-181.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-14-37-40-181.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-15-45-03-576.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-15-45-03-576.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-15-47-14-049.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-15-47-14-049.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-15-57-56-711.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-15-57-56-711.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-13-25-336.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-13-25-336.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-16-32-305.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-16-32-305.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-17-35-200.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-17-35-200.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-23-43-476.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-23-43-476.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-31-24-976.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-31-24-976.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-32-20-877.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-32-20-877.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-55-08-962.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-55-08-962.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-57-29-036.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-16-57-29-036.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-30-16-605.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-30-16-605.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-31-41-360.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-31-41-360.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-32-08-308.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-32-08-308.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-34-04-328.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-34-04-328.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-34-50-936.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-34-50-936.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-47-35-548.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-47-35-548.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-49-01-491.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-49-01-491.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-53-50-205.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-17-53-50-205.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-03-17-109.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-03-17-109.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-06-03-269.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-06-03-269.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-07-36-225.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-07-36-225.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-11-23-845.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-11-23-845.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-15-31-226.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-15-31-226.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-16-31-902.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-25-18-16-31-902.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-10-27-51-921.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-10-27-51-921.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-10-28-45-873.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-10-28-45-873.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-17-42-473.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-17-42-473.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-23-26-983.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-23-26-983.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-30-08-459.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-30-08-459.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-30-38-241.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-30-38-241.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-43-04-992.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-43-04-992.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-44-08-295.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-12-44-08-295.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-13-32-10-120.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-13-32-10-120.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-13-34-41-085.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-13-34-41-085.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-37-08-872.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-37-08-872.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-37-51-680.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-37-51-680.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-38-08-221.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-38-08-221.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-39-09-020.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-39-09-020.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-59-31-873.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-14-59-31-873.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-28-18-813.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-28-18-813.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-30-24-903.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-30-24-903.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-46-46-936.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-46-46-936.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-48-15-470.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-15-48-15-470.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-16-09-10-709.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-16-09-10-709.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-16-31-27-885.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-16-31-27-885.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-16-32-38-216.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-16-32-38-216.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-18-18-039.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-18-18-039.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-36-41-387.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-36-41-387.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-49-48-781.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-49-48-781.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-55-45-309.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-55-45-309.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-56-59-833.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-56-59-833.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-58-43-817.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-17-58-43-817.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-01-08-993.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-01-08-993.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-02-47-335.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-02-47-335.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-06-52-268.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-06-52-268.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-09-56-195.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-09-56-195.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-13-16-185.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-13-16-185.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-13-49-712.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-13-49-712.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-20-12-544.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-20-12-544.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-28-03-118.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-28-03-118.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-31-02-451.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-31-02-451.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-34-35-369.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-34-35-369.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-36-54-556.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-36-54-556.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-38-59-040.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-38-59-040.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-41-53-810.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-41-53-810.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-54-27-085.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-54-27-085.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-57-23-033.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-18-57-23-033.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-05-51-536.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-05-51-536.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-07-49-938.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-07-49-938.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-08-46-897.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-08-46-897.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-12-55-589.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-26-19-12-55-589.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-09-44-48-980.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-09-44-48-980.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-09-45-48-005.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-09-45-48-005.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-10-15-50-838.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-10-15-50-838.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-21-11-288.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-21-11-288.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-23-37-044.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-23-37-044.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-47-59-324.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-47-59-324.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-51-45-510.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-11-51-45-510.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-04-01-987.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-04-01-987.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-17-17-141.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-17-17-141.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-50-15-765.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-50-15-765.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-51-19-874.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-51-19-874.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-53-20-113.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-12-53-20-113.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-13-12-14-379.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-13-12-14-379.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-13-15-02-023.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-13-15-02-023.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-14-35-39-797.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-14-35-39-797.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-14-36-42-936.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-14-36-42-936.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-15-01-49-862.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-15-01-49-862.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-15-07-28-969.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-15-07-28-969.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-15-53-27-047.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-15-53-27-047.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-06-31-722.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-06-31-722.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-23-43-272.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-23-43-272.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-25-57-847.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-25-57-847.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-33-01-075.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-33-01-075.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-35-19-666.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-35-19-666.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-36-22-952.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-16-36-22-952.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-10-07-477.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-10-07-477.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-12-13-009.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-12-13-009.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-14-44-165.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-14-44-165.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-19-20-445.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-19-20-445.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-21-14-450.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-21-14-450.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-24-43-018.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-24-43-018.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-28-44-315.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-28-44-315.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-38-49-794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-38-49-794.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-47-55-586.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-47-55-586.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-51-46-389.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-51-46-389.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-56-14-035.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-56-14-035.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-56-53-675.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-17-56-53-675.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-01-52-129.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-01-52-129.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-29-06-693.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-29-06-693.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-41-37-697.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-41-37-697.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-43-37-559.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-43-37-559.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-44-44-543.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-44-44-543.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-46-17-975.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-18-46-17-975.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-19-02-07-376.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-27-19-02-07-376.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-09-56-06-869.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-09-56-06-869.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-09-57-07-174.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-09-57-07-174.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-10-43-32-356.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-10-43-32-356.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-20-20-810.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-20-20-810.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-34-39-794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-34-39-794.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-39-47-343.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-39-47-343.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-42-53-295.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-11-42-53-295.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-25-45-772.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-25-45-772.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-26-53-340.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-26-53-340.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-35-24-880.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-35-24-880.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-42-24-495.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-12-42-24-495.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-14-51-23-740.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-14-51-23-740.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-14-51-52-257.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-14-51-52-257.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-14-58-46-829.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-14-58-46-829.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-32-01-004.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-32-01-004.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-33-14-959.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-33-14-959.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-33-43-825.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-33-43-825.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-36-44-640.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-36-44-640.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-39-00-787.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-15-39-00-787.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-03-10-558.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-03-10-558.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-04-37-376.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-04-37-376.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-09-15-092.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-09-15-092.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-11-21-805.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-11-21-805.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-14-25-990.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-16-14-25-990.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-18-35-08-570.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-18-35-08-570.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-18-35-39-666.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-18-35-39-666.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-18-36-43-750.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-28-18-36-43-750.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-37-11-919.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-37-11-919.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-39-50-997.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-39-50-997.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-40-07-025.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-40-07-025.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-40-19-909.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-40-19-909.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-43-32-394.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-43-32-394.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-44-02-794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-44-02-794.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-51-31-360.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-11-51-31-360.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-12-04-13-133.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-01-12-04-13-133.rawproto" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/AddressBookAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/AddressBookAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CartDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CartDetailAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/CategoryAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CategoryAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterCategory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ExpandableListAdapterUser.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterUser.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ItemAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ItemAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MainFragmentAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MainFragmentAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/MyPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/MyPagerAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/OrderDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/OrderDetailAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductImagePreviewAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductImagePreviewAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ProductOptionsAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ProductOptionsAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/SubCatAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder1.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/ViewHolder2.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ViewHolder2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Address.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Address.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Country.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Country.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MenuCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MenuCategory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MenuSubCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MenuSubCategory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyCartDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyCartDetail.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyCategory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyCategory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyItem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyOrder.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyOrder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyOrderDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyOrderDetail.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/MyPromotion.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/MyPromotion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Options.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Options.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/PaymentMethod.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/PaymentMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Product.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Product.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/ProductOptionValueItem.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/ProductOptionValueItem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Reviews.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Reviews.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/ShippingMethod.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/ShippingMethod.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/Slideshow.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/Slideshow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/model/UserSubMenu.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/model/UserSubMenu.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/AppConstants.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyApp.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/MyApp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/MyCountDownTimer.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/MyCountDownTimer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Preferences.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Preferences.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/ThemeUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/ThemeUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/utils/Utils.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Utils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/FetchData.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/FetchData.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SearchActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SearchActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SplashActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddAddress.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddAddress.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/AddressBook.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddressBook.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/Dashboard.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/Dashboard.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCartDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCartDetail.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragChangePassword.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragChangePassword.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragCheckout.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragCheckout.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragContactUs.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragContactUs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragEditAccount.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragEditAccount.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragForgotPass.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragForgotPass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragLogin.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragLogin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderDetail.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragOrderHistory.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragOrderHistory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProduct.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProduct.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragProductDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragProductDetail.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragRegister.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragRegister.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/FragShowText.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragShowText.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MainFrag.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/MainFrag.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/fragments/MyBaseFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/MyBaseFragment.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -152,7 +519,18 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1934,10 +2312,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/SplashActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_user.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_category.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/toolbar_bottom.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/toolbar_top.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/controller/SubCatAdapter.java" />
@@ -1945,7 +2319,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/frag_products.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/web2design/souqclone/app/view/activities/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/ExpandableListAdapterCategory.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/AddressBookAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/CategoryAdapter.java" />
@@ -1985,6 +2358,11 @@
         <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddressBook.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/AddAddress.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/fragments/FragForgotPass.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
       </list>
     </option>
   </component>
@@ -2204,6 +2582,66 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mipmap" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
@@ -2220,32 +2658,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndroidShoppingCart_Technicomovil.es" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2270,8 +2682,8 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="192.168.1.2:5555" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
+    <property name="device.picker.selection" value="192.168.1.5:5555" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="SearchEverywhereHistoryKey" value="styles&#9;PSI&#9;JAVA://com.kofigyan.stateprogressbar.R.styleable#AppCompatTheme_ratingBarStyleSmall&#10;plugin&#9;ACTION&#9;WelcomeScreen.Plugins" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="android.project.structure.last.selected" value="app" />
@@ -2279,11 +2691,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Inzimam_Tariq\Android_Work\AndroidShoppingCart_Technicomovil.es\app\src\main\res\drawable" />
       <recent name="E:\Inzimam_Tariq\Android_Work\AndroidShoppingCart_Opencart.com\app\src\main\res\drawable" />
       <recent name="E:\Inzimam_Tariq\Android_Work\AndroidShoppingCart_Opencart.com\app\src\main\res\values-xxxhdpi" />
       <recent name="E:\Inzimam_Tariq\Android_Work\Android-Shopping-Cart\app\src\main\res\layout" />
       <recent name="E:\Inzimam_Tariq\Android_Work\Android-Shopping-Cart\app\src\main\res\menu" />
-      <recent name="E:\Inzimam_Tariq\Android_Work\Android-Shopping-Cart\app\src\main\res\drawable" />
     </key>
     <key name="android.template.packageName">
       <recent name="com.qemasoft.alhabibshop.app.view.activities" />
@@ -2386,7 +2798,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519887905292" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519899024466" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2434,7 +2846,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519887905293" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519899024466" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2617,7 +3029,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519887905295" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519899024468" />
       </method>
     </configuration>
     <list size="1">
@@ -2660,8 +3072,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.66939443" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66939443" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5030257" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48772505" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -2681,7 +3094,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63829786" sideWeight="0.5030257" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31260228" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2706,90 +3119,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_user.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_header_category.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_top.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_bottom.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_expand_more_black.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/frag_products.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/controller/AddressBookAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2799,7 +3134,7 @@
         <state relative-caret-position="195">
           <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2809,7 +3144,7 @@
         <state relative-caret-position="195">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2819,7 +3154,7 @@
         <state relative-caret-position="195">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2829,7 +3164,7 @@
         <state relative-caret-position="195">
           <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2839,7 +3174,7 @@
         <state relative-caret-position="77">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2849,7 +3184,7 @@
         <state relative-caret-position="187">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2859,7 +3194,7 @@
         <state relative-caret-position="187">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2869,7 +3204,7 @@
         <state relative-caret-position="187">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2879,7 +3214,7 @@
         <state relative-caret-position="187">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2889,7 +3224,7 @@
         <state relative-caret-position="187">
           <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2899,7 +3234,7 @@
         <state relative-caret-position="187">
           <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2909,7 +3244,7 @@
         <state relative-caret-position="187">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2919,7 +3254,7 @@
         <state relative-caret-position="187">
           <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2956,45 +3291,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SplashActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="e#4498#4515#0" expanded="true" />
-            <element signature="e#4517#4545#0" expanded="true" />
-            <element signature="e#4642#4653#0" expanded="true" />
-            <element signature="e#4705#4725#0" expanded="true" />
-            <element signature="e#5072#5089#0" expanded="true" />
-            <element signature="e#5091#5119#0" expanded="true" />
-            <element signature="e#5208#5219#0" expanded="true" />
-            <element signature="e#5267#5287#0" expanded="true" />
-            <element signature="e#9809#9826#0" expanded="true" />
-            <element signature="e#9828#9856#0" expanded="true" />
-            <element signature="e#9929#9940#0" expanded="true" />
-            <element signature="e#9980#10000#0" expanded="true" />
-            <element signature="e#10293#10310#0" expanded="true" />
-            <element signature="e#10312#10340#0" expanded="true" />
-            <element signature="e#10397#10408#0" expanded="true" />
-            <element signature="e#10440#10460#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3012,42 +3314,42 @@
         <state relative-caret-position="163">
           <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding>
-            <element signature="e#10097#10119#0" expanded="true" />
-            <element signature="e#10121#10147#0" expanded="true" />
-            <element signature="e#10211#10230#0" expanded="true" />
-            <element signature="e#10277#10306#0" expanded="true" />
-            <element signature="e#22569#22591#0" expanded="true" />
-            <element signature="e#24301#24335#0" expanded="true" />
-            <element signature="e#24353#24397#0" expanded="true" />
-            <element signature="e#24415#24454#0" expanded="true" />
-            <element signature="e#24490#24521#0" expanded="true" />
-            <element signature="e#24539#24580#0" expanded="true" />
-            <element signature="e#24598#24645#0" expanded="true" />
-            <element signature="e#24663#24705#0" expanded="true" />
-            <element signature="e#24723#24753#0" expanded="true" />
-            <element signature="e#24771#24810#0" expanded="true" />
-            <element signature="e#27304#27321#0" expanded="true" />
-            <element signature="e#27323#27351#0" expanded="true" />
-            <element signature="e#27408#27419#0" expanded="true" />
-            <element signature="e#27451#27471#0" expanded="true" />
-            <element signature="e#30996#31013#0" expanded="true" />
-            <element signature="e#31015#31043#0" expanded="true" />
-            <element signature="e#31100#31111#0" expanded="true" />
-            <element signature="e#31143#31163#0" expanded="true" />
-            <element signature="e#31558#31589#0" expanded="true" />
-            <element signature="e#31591#31623#0" expanded="true" />
-            <element signature="e#34309#34334#0" expanded="true" />
-            <element signature="e#34336#34362#0" expanded="true" />
-            <element signature="e#34419#34438#0" expanded="true" />
-            <element signature="e#34481#34498#0" expanded="true" />
-            <element signature="e#37774#37791#0" expanded="true" />
-            <element signature="e#37793#37821#0" expanded="true" />
-            <element signature="e#37894#37905#0" expanded="true" />
-            <element signature="e#37945#37965#0" expanded="true" />
-            <element signature="e#38183#38200#0" expanded="true" />
-            <element signature="e#38202#38230#0" expanded="true" />
-            <element signature="e#38303#38314#0" expanded="true" />
-            <element signature="e#38354#38374#0" expanded="true" />
+            <element signature="e#10097#10119#0" expanded="false" />
+            <element signature="e#10121#10147#0" expanded="false" />
+            <element signature="e#10211#10230#0" expanded="false" />
+            <element signature="e#10277#10306#0" expanded="false" />
+            <element signature="e#22569#22591#0" expanded="false" />
+            <element signature="e#24301#24335#0" expanded="false" />
+            <element signature="e#24353#24397#0" expanded="false" />
+            <element signature="e#24415#24454#0" expanded="false" />
+            <element signature="e#24490#24521#0" expanded="false" />
+            <element signature="e#24539#24580#0" expanded="false" />
+            <element signature="e#24598#24645#0" expanded="false" />
+            <element signature="e#24663#24705#0" expanded="false" />
+            <element signature="e#24723#24753#0" expanded="false" />
+            <element signature="e#24771#24810#0" expanded="false" />
+            <element signature="e#27304#27321#0" expanded="false" />
+            <element signature="e#27323#27351#0" expanded="false" />
+            <element signature="e#27408#27419#0" expanded="false" />
+            <element signature="e#27451#27471#0" expanded="false" />
+            <element signature="e#30996#31013#0" expanded="false" />
+            <element signature="e#31015#31043#0" expanded="false" />
+            <element signature="e#31100#31111#0" expanded="false" />
+            <element signature="e#31143#31163#0" expanded="false" />
+            <element signature="e#31558#31589#0" expanded="false" />
+            <element signature="e#31591#31623#0" expanded="false" />
+            <element signature="e#34309#34334#0" expanded="false" />
+            <element signature="e#34336#34362#0" expanded="false" />
+            <element signature="e#34419#34438#0" expanded="false" />
+            <element signature="e#34481#34498#0" expanded="false" />
+            <element signature="e#37774#37791#0" expanded="false" />
+            <element signature="e#37793#37821#0" expanded="false" />
+            <element signature="e#37894#37905#0" expanded="false" />
+            <element signature="e#37945#37965#0" expanded="false" />
+            <element signature="e#38183#38200#0" expanded="false" />
+            <element signature="e#38202#38230#0" expanded="false" />
+            <element signature="e#38303#38314#0" expanded="false" />
+            <element signature="e#38354#38374#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3081,7 +3383,7 @@
         <state relative-caret-position="187">
           <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3091,7 +3393,7 @@
         <state relative-caret-position="187">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3101,7 +3403,7 @@
         <state relative-caret-position="187">
           <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3111,7 +3413,7 @@
         <state relative-caret-position="187">
           <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3121,7 +3423,7 @@
         <state relative-caret-position="187">
           <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3131,7 +3433,7 @@
         <state relative-caret-position="187">
           <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3141,10 +3443,10 @@
         <state relative-caret-position="185">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding>
-            <element signature="e#7468#7485#0" expanded="true" />
-            <element signature="e#7487#7515#0" expanded="true" />
-            <element signature="e#7572#7583#0" expanded="true" />
-            <element signature="e#7615#7635#0" expanded="true" />
+            <element signature="e#7468#7485#0" expanded="false" />
+            <element signature="e#7487#7515#0" expanded="false" />
+            <element signature="e#7572#7583#0" expanded="false" />
+            <element signature="e#7615#7635#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3154,13 +3456,13 @@
         <state relative-caret-position="185">
           <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
-            <element signature="e#7197#7222#0" expanded="true" />
-            <element signature="e#7300#7311#0" expanded="true" />
-            <element signature="e#7351#7371#0" expanded="true" />
-            <element signature="e#7602#7619#0" expanded="true" />
-            <element signature="e#7621#7649#0" expanded="true" />
-            <element signature="e#7706#7717#0" expanded="true" />
-            <element signature="e#7749#7769#0" expanded="true" />
+            <element signature="e#7197#7222#0" expanded="false" />
+            <element signature="e#7300#7311#0" expanded="false" />
+            <element signature="e#7351#7371#0" expanded="false" />
+            <element signature="e#7602#7619#0" expanded="false" />
+            <element signature="e#7621#7649#0" expanded="false" />
+            <element signature="e#7706#7717#0" expanded="false" />
+            <element signature="e#7749#7769#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3170,13 +3472,13 @@
         <state relative-caret-position="155">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
-            <element signature="e#5523#5548#0" expanded="true" />
-            <element signature="e#5626#5637#0" expanded="true" />
-            <element signature="e#5688#5708#0" expanded="true" />
-            <element signature="e#5985#6002#0" expanded="true" />
-            <element signature="e#6004#6032#0" expanded="true" />
-            <element signature="e#6089#6100#0" expanded="true" />
-            <element signature="e#6132#6152#0" expanded="true" />
+            <element signature="e#5523#5548#0" expanded="false" />
+            <element signature="e#5626#5637#0" expanded="false" />
+            <element signature="e#5688#5708#0" expanded="false" />
+            <element signature="e#5985#6002#0" expanded="false" />
+            <element signature="e#6004#6032#0" expanded="false" />
+            <element signature="e#6089#6100#0" expanded="false" />
+            <element signature="e#6132#6152#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3186,16 +3488,16 @@
         <state relative-caret-position="177">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
-            <element signature="e#5700#5725#0" expanded="true" />
-            <element signature="e#5803#5814#0" expanded="true" />
-            <element signature="e#5854#5874#0" expanded="true" />
-            <element signature="e#6488#6513#0" expanded="true" />
-            <element signature="e#6593#6604#0" expanded="true" />
-            <element signature="e#6644#6664#0" expanded="true" />
-            <element signature="e#6957#6974#0" expanded="true" />
-            <element signature="e#6976#7004#0" expanded="true" />
-            <element signature="e#7061#7072#0" expanded="true" />
-            <element signature="e#7104#7124#0" expanded="true" />
+            <element signature="e#5700#5725#0" expanded="false" />
+            <element signature="e#5803#5814#0" expanded="false" />
+            <element signature="e#5854#5874#0" expanded="false" />
+            <element signature="e#6488#6513#0" expanded="false" />
+            <element signature="e#6593#6604#0" expanded="false" />
+            <element signature="e#6644#6664#0" expanded="false" />
+            <element signature="e#6957#6974#0" expanded="false" />
+            <element signature="e#6976#7004#0" expanded="false" />
+            <element signature="e#7061#7072#0" expanded="false" />
+            <element signature="e#7104#7124#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3205,44 +3507,44 @@
         <state relative-caret-position="185">
           <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
-            <element signature="e#7897#7922#0" expanded="true" />
-            <element signature="e#7952#7975#0" expanded="true" />
-            <element signature="e#8012#8023#0" expanded="true" />
-            <element signature="e#8059#8079#0" expanded="true" />
-            <element signature="e#8720#8745#0" expanded="true" />
-            <element signature="e#8779#8802#0" expanded="true" />
-            <element signature="e#8843#8854#0" expanded="true" />
-            <element signature="e#8894#8914#0" expanded="true" />
-            <element signature="e#11688#11709#0" expanded="true" />
-            <element signature="e#11880#11905#0" expanded="true" />
-            <element signature="e#11939#11970#0" expanded="true" />
-            <element signature="e#12011#12022#0" expanded="true" />
-            <element signature="e#12062#12082#0" expanded="true" />
-            <element signature="e#14632#14654#0" expanded="true" />
-            <element signature="e#17287#17305#0" expanded="true" />
-            <element signature="e#20446#20463#0" expanded="true" />
-            <element signature="e#20497#20524#0" expanded="true" />
-            <element signature="e#20565#20576#0" expanded="true" />
-            <element signature="e#20616#20636#0" expanded="true" />
-            <element signature="e#23194#23211#0" expanded="true" />
-            <element signature="e#23245#23271#0" expanded="true" />
-            <element signature="e#23312#23323#0" expanded="true" />
-            <element signature="e#23363#23383#0" expanded="true" />
-            <element signature="e#25693#25718#0" expanded="true" />
-            <element signature="e#25752#25776#0" expanded="true" />
-            <element signature="e#25817#25828#0" expanded="true" />
-            <element signature="e#25868#25888#0" expanded="true" />
-            <element signature="e#29991#30016#0" expanded="true" />
-            <element signature="e#30042#30058#0" expanded="true" />
-            <element signature="e#30091#30102#0" expanded="true" />
-            <element signature="e#30134#30154#0" expanded="true" />
-            <element signature="e#30541#30566#0" expanded="true" />
-            <element signature="e#30640#30651#0" expanded="true" />
-            <element signature="e#30687#30707#0" expanded="true" />
-            <element signature="e#30914#30931#0" expanded="true" />
-            <element signature="e#30953#30981#0" expanded="true" />
-            <element signature="e#31010#31021#0" expanded="true" />
-            <element signature="e#31049#31069#0" expanded="true" />
+            <element signature="e#7897#7922#0" expanded="false" />
+            <element signature="e#7952#7975#0" expanded="false" />
+            <element signature="e#8012#8023#0" expanded="false" />
+            <element signature="e#8059#8079#0" expanded="false" />
+            <element signature="e#8720#8745#0" expanded="false" />
+            <element signature="e#8779#8802#0" expanded="false" />
+            <element signature="e#8843#8854#0" expanded="false" />
+            <element signature="e#8894#8914#0" expanded="false" />
+            <element signature="e#11688#11709#0" expanded="false" />
+            <element signature="e#11880#11905#0" expanded="false" />
+            <element signature="e#11939#11970#0" expanded="false" />
+            <element signature="e#12011#12022#0" expanded="false" />
+            <element signature="e#12062#12082#0" expanded="false" />
+            <element signature="e#14632#14654#0" expanded="false" />
+            <element signature="e#17287#17305#0" expanded="false" />
+            <element signature="e#20446#20463#0" expanded="false" />
+            <element signature="e#20497#20524#0" expanded="false" />
+            <element signature="e#20565#20576#0" expanded="false" />
+            <element signature="e#20616#20636#0" expanded="false" />
+            <element signature="e#23194#23211#0" expanded="false" />
+            <element signature="e#23245#23271#0" expanded="false" />
+            <element signature="e#23312#23323#0" expanded="false" />
+            <element signature="e#23363#23383#0" expanded="false" />
+            <element signature="e#25693#25718#0" expanded="false" />
+            <element signature="e#25752#25776#0" expanded="false" />
+            <element signature="e#25817#25828#0" expanded="false" />
+            <element signature="e#25868#25888#0" expanded="false" />
+            <element signature="e#29991#30016#0" expanded="false" />
+            <element signature="e#30042#30058#0" expanded="false" />
+            <element signature="e#30091#30102#0" expanded="false" />
+            <element signature="e#30134#30154#0" expanded="false" />
+            <element signature="e#30541#30566#0" expanded="false" />
+            <element signature="e#30640#30651#0" expanded="false" />
+            <element signature="e#30687#30707#0" expanded="false" />
+            <element signature="e#30914#30931#0" expanded="false" />
+            <element signature="e#30953#30981#0" expanded="false" />
+            <element signature="e#31010#31021#0" expanded="false" />
+            <element signature="e#31049#31069#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3252,23 +3554,23 @@
         <state relative-caret-position="185">
           <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
-            <element signature="e#2713#2738#0" expanded="true" />
-            <element signature="e#2740#2763#0" expanded="true" />
-            <element signature="e#2828#2839#0" expanded="true" />
-            <element signature="e#2875#2895#0" expanded="true" />
-            <element signature="e#5328#5353#0" expanded="true" />
-            <element signature="e#5435#5446#0" expanded="true" />
-            <element signature="e#5497#5517#0" expanded="true" />
-            <element signature="e#5974#5999#0" expanded="true" />
-            <element signature="e#6079#6090#0" expanded="true" />
-            <element signature="e#6130#6150#0" expanded="true" />
-            <element signature="e#6623#6648#0" expanded="true" />
-            <element signature="e#6730#6741#0" expanded="true" />
-            <element signature="e#6781#6801#0" expanded="true" />
-            <element signature="e#6879#6896#0" expanded="true" />
-            <element signature="e#6898#6926#0" expanded="true" />
-            <element signature="e#6999#7010#0" expanded="true" />
-            <element signature="e#7050#7070#0" expanded="true" />
+            <element signature="e#2713#2738#0" expanded="false" />
+            <element signature="e#2740#2763#0" expanded="false" />
+            <element signature="e#2828#2839#0" expanded="false" />
+            <element signature="e#2875#2895#0" expanded="false" />
+            <element signature="e#5328#5353#0" expanded="false" />
+            <element signature="e#5435#5446#0" expanded="false" />
+            <element signature="e#5497#5517#0" expanded="false" />
+            <element signature="e#5974#5999#0" expanded="false" />
+            <element signature="e#6079#6090#0" expanded="false" />
+            <element signature="e#6130#6150#0" expanded="false" />
+            <element signature="e#6623#6648#0" expanded="false" />
+            <element signature="e#6730#6741#0" expanded="false" />
+            <element signature="e#6781#6801#0" expanded="false" />
+            <element signature="e#6879#6896#0" expanded="false" />
+            <element signature="e#6898#6926#0" expanded="false" />
+            <element signature="e#6999#7010#0" expanded="false" />
+            <element signature="e#7050#7070#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3278,29 +3580,29 @@
         <state relative-caret-position="185">
           <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
           <folding>
-            <element signature="e#3327#3349#0" expanded="true" />
-            <element signature="e#3351#3377#0" expanded="true" />
-            <element signature="e#3441#3460#0" expanded="true" />
-            <element signature="e#3507#3536#0" expanded="true" />
-            <element signature="e#6156#6180#0" expanded="true" />
-            <element signature="e#6362#6376#0" expanded="true" />
-            <element signature="e#6486#6506#0" expanded="true" />
-            <element signature="e#6608#6634#0" expanded="true" />
-            <element signature="e#8273#8298#0" expanded="true" />
-            <element signature="e#8300#8326#0" expanded="true" />
-            <element signature="e#8391#8402#0" expanded="true" />
-            <element signature="e#8438#8458#0" expanded="true" />
-            <element signature="e#10060#10085#0" expanded="true" />
-            <element signature="e#10087#10111#0" expanded="true" />
-            <element signature="e#10191#10202#0" expanded="true" />
-            <element signature="e#10246#10266#0" expanded="true" />
-            <element signature="e#14679#14704#0" expanded="true" />
-            <element signature="e#14782#14793#0" expanded="true" />
-            <element signature="e#14833#14853#0" expanded="true" />
-            <element signature="e#15084#15101#0" expanded="true" />
-            <element signature="e#15103#15131#0" expanded="true" />
-            <element signature="e#15188#15199#0" expanded="true" />
-            <element signature="e#15231#15251#0" expanded="true" />
+            <element signature="e#3327#3349#0" expanded="false" />
+            <element signature="e#3351#3377#0" expanded="false" />
+            <element signature="e#3441#3460#0" expanded="false" />
+            <element signature="e#3507#3536#0" expanded="false" />
+            <element signature="e#6156#6180#0" expanded="false" />
+            <element signature="e#6362#6376#0" expanded="false" />
+            <element signature="e#6486#6506#0" expanded="false" />
+            <element signature="e#6608#6634#0" expanded="false" />
+            <element signature="e#8273#8298#0" expanded="false" />
+            <element signature="e#8300#8326#0" expanded="false" />
+            <element signature="e#8391#8402#0" expanded="false" />
+            <element signature="e#8438#8458#0" expanded="false" />
+            <element signature="e#10060#10085#0" expanded="false" />
+            <element signature="e#10087#10111#0" expanded="false" />
+            <element signature="e#10191#10202#0" expanded="false" />
+            <element signature="e#10246#10266#0" expanded="false" />
+            <element signature="e#14679#14704#0" expanded="false" />
+            <element signature="e#14782#14793#0" expanded="false" />
+            <element signature="e#14833#14853#0" expanded="false" />
+            <element signature="e#15084#15101#0" expanded="false" />
+            <element signature="e#15103#15131#0" expanded="false" />
+            <element signature="e#15188#15199#0" expanded="false" />
+            <element signature="e#15231#15251#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3318,19 +3620,19 @@
         <state relative-caret-position="88">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding>
-            <element signature="e#2022#2051#0" expanded="true" />
-            <element signature="e#3969#3997#0" expanded="true" />
-            <element signature="e#4075#4100#0" expanded="true" />
-            <element signature="e#4102#4130#0" expanded="true" />
-            <element signature="e#4211#4222#0" expanded="true" />
-            <element signature="e#4266#4286#0" expanded="true" />
-            <element signature="e#6194#6219#0" expanded="true" />
-            <element signature="e#6293#6304#0" expanded="true" />
-            <element signature="e#6340#6360#0" expanded="true" />
-            <element signature="e#6548#6565#0" expanded="true" />
-            <element signature="e#6567#6595#0" expanded="true" />
-            <element signature="e#6652#6663#0" expanded="true" />
-            <element signature="e#6695#6715#0" expanded="true" />
+            <element signature="e#2022#2051#0" expanded="false" />
+            <element signature="e#3969#3997#0" expanded="false" />
+            <element signature="e#4075#4100#0" expanded="false" />
+            <element signature="e#4102#4130#0" expanded="false" />
+            <element signature="e#4211#4222#0" expanded="false" />
+            <element signature="e#4266#4286#0" expanded="false" />
+            <element signature="e#6194#6219#0" expanded="false" />
+            <element signature="e#6293#6304#0" expanded="false" />
+            <element signature="e#6340#6360#0" expanded="false" />
+            <element signature="e#6548#6565#0" expanded="false" />
+            <element signature="e#6567#6595#0" expanded="false" />
+            <element signature="e#6652#6663#0" expanded="false" />
+            <element signature="e#6695#6715#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3340,28 +3642,28 @@
         <state relative-caret-position="229">
           <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
-            <element signature="e#2928#2954#0" expanded="true" />
-            <element signature="e#7284#7301#0" expanded="true" />
-            <element signature="e#7303#7331#0" expanded="true" />
-            <element signature="e#7420#7431#0" expanded="true" />
-            <element signature="e#7479#7499#0" expanded="true" />
-            <element signature="e#7913#7938#0" expanded="true" />
-            <element signature="e#8020#8031#0" expanded="true" />
-            <element signature="e#8071#8091#0" expanded="true" />
-            <element signature="e#8227#8244#0" expanded="true" />
-            <element signature="e#8246#8274#0" expanded="true" />
-            <element signature="e#8339#8350#0" expanded="true" />
-            <element signature="e#8386#8406#0" expanded="true" />
-            <element signature="e#8486#8503#0" expanded="true" />
-            <element signature="e#8505#8533#0" expanded="true" />
-            <element signature="e#8590#8601#0" expanded="true" />
-            <element signature="e#8633#8653#0" expanded="true" />
-            <element signature="e#8958#8981#0" expanded="true" />
-            <element signature="e#9993#10014#0" expanded="true" />
-            <element signature="e#11909#11934#0" expanded="true" />
-            <element signature="e#11936#11957#0" expanded="true" />
-            <element signature="e#12022#12033#0" expanded="true" />
-            <element signature="e#12069#12089#0" expanded="true" />
+            <element signature="e#2928#2954#0" expanded="false" />
+            <element signature="e#7284#7301#0" expanded="false" />
+            <element signature="e#7303#7331#0" expanded="false" />
+            <element signature="e#7420#7431#0" expanded="false" />
+            <element signature="e#7479#7499#0" expanded="false" />
+            <element signature="e#7913#7938#0" expanded="false" />
+            <element signature="e#8020#8031#0" expanded="false" />
+            <element signature="e#8071#8091#0" expanded="false" />
+            <element signature="e#8227#8244#0" expanded="false" />
+            <element signature="e#8246#8274#0" expanded="false" />
+            <element signature="e#8339#8350#0" expanded="false" />
+            <element signature="e#8386#8406#0" expanded="false" />
+            <element signature="e#8486#8503#0" expanded="false" />
+            <element signature="e#8505#8533#0" expanded="false" />
+            <element signature="e#8590#8601#0" expanded="false" />
+            <element signature="e#8633#8653#0" expanded="false" />
+            <element signature="e#8958#8981#0" expanded="false" />
+            <element signature="e#9993#10014#0" expanded="false" />
+            <element signature="e#11909#11934#0" expanded="false" />
+            <element signature="e#11936#11957#0" expanded="false" />
+            <element signature="e#12022#12033#0" expanded="false" />
+            <element signature="e#12069#12089#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3371,17 +3673,95 @@
         <state relative-caret-position="185">
           <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
-            <element signature="e#3454#3479#0" expanded="true" />
-            <element signature="e#3557#3568#0" expanded="true" />
-            <element signature="e#3608#3628#0" expanded="true" />
-            <element signature="e#4087#4112#0" expanded="true" />
-            <element signature="e#4190#4201#0" expanded="true" />
-            <element signature="e#4241#4261#0" expanded="true" />
-            <element signature="e#4492#4509#0" expanded="true" />
-            <element signature="e#4511#4539#0" expanded="true" />
-            <element signature="e#4596#4607#0" expanded="true" />
-            <element signature="e#4639#4659#0" expanded="true" />
+            <element signature="e#3454#3479#0" expanded="false" />
+            <element signature="e#3557#3568#0" expanded="false" />
+            <element signature="e#3608#3628#0" expanded="false" />
+            <element signature="e#4087#4112#0" expanded="false" />
+            <element signature="e#4190#4201#0" expanded="false" />
+            <element signature="e#4241#4261#0" expanded="false" />
+            <element signature="e#4492#4509#0" expanded="false" />
+            <element signature="e#4511#4539#0" expanded="false" />
+            <element signature="e#4596#4607#0" expanded="false" />
+            <element signature="e#4639#4659#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/tecnicomovil_splash.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/tecnicomovil_splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/view/activities/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="72" column="32" lean-forward="false" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/tecnicomovil/app/utils/AppConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="72" column="57" lean-forward="false" selection-start-line="72" selection-start-column="57" selection-end-line="72" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#1130#1151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>

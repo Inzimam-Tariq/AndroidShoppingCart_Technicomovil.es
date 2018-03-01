@@ -72,10 +72,10 @@ public class AppConstants {
     public static final String THEME_CODE = "ThemeCode";
     public static final String ICON_COLOR = "ICON_COLOR";
 //    private static final String BASE_URL = "http://www.souqclone.com/api/";
-    private static final String BASE_URL = "http://www.demo.web2design.net/electronics/api/";
+//    private static final String BASE_URL = "http://www.demo.web2design.net/electronics/api/";
     //    private static final String BASE_URL = "https://www.opencartgulf.com/api/";
     //    private static final String BASE_URL = "https://www.alhabibshop.com/api/";
-    //    private static final String BASE_URL = "https://www.tecnicomovil.es/api/";
+        private static final String BASE_URL = "https://www.tecnicomovil.es/api/";
     public static final String SECRET_KEY_URL = BASE_URL + "getKey";
     
     public static List<ProductOptionValueItem> optionsList = new ArrayList<>();
