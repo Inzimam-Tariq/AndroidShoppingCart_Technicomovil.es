@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sky Mart</string>
+    <string name="domain_name">www.web2design.net</string>
+    <string name="title_activity_main">Main Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="progress_dialog_title">Loading Data</string>
+    <string name="progress_dialog_text">Loading…</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_overflow">Click This</string>
+    <string name="action_login_cap"><b>LOGIN</b></string>
+    <string name="action_register_text">Register</string>
+    <string name="edit_address_text">Edit Address</string>
+    <string name="action_change_pass_text">Change Password</string>
+    <string name="action_shopping_cart">Shopping Cart</string>
+    <string name="action_wishlist">Wish List</string>
+    <string name="action_language">Language</string>
+    <string name="action_currency">Currency</string>
+    <string name="nav_head_bold_text">Open Cart Android</string>
+    <string name="nav_head_normal_text">Order Your Everyday Things Here!</string>
+    <string name="nav_head_small_text">Get Everything at Discounted Price</string>
+
+    <string name="forgot_pass"><u>Forgot Password?</u></string>
+    <string name="privacy_policy_text"><u>Privacy Policy</u></string>
+    <string name="privacy_policy_statement"><i>I have read and agree to the, </i></string>
+    <string name="read_privacy_policy">You must agree to the Privacy Policy</string>
+
+    <string name="do_not_have_account">Don\'t have account?</string>
+    <string name="register"><u>Register</u></string>
+    <string name="have_account"><i>If you have an account, </i></string>
+    <string name="click_here"> <u>Click here!</u></string>
+    <string name="your_string_here">This is an &lt;u>underline&lt;/u>.</string>
+
+    <string name="action_search">Search</string>
+    <string name="forgot_pass_text">Forgot Your Password?</string>
+
+    <!--Fragment Cart -->
+
+    <string name="use_coupon_text">Use Coupon</string>
+    <string name="frag_cart_btn_text">Checkout</string>
+    <string name="preferred_shipping_method_text">Please select the preferred shipping method to use on this order</string>
+    <string name="preferred_payment_method_text">Please select the preferred Payment method to use on this order</string>
+    <string name="comment_about_order_text">Add Comments About Your Order</string>
+    <string name="terms_text"><u>Terms and Conditions</u></string>
+    <string name="accept_terms_statement">You have to Accept Terms and Condition to Continue</string>
+    <string name="confirm_order_text">Confirm Order</string>
+    <string name="please_select_text">--Please Select--</string>
+    <string name="please_select">Please Select</string>
+    <string name="next_text">Next</string>
+    <string name="back_text">Back</string>
+    <string name="confirm_text">Confirm</string>
+
+    <string name="delivery_text">Delivery</string>
+    <string name="shipping_text">Shipping</string>
+    <string name="payment_text">Payment</string>
+
+    <!--Fragment Categories -->
+    <string name="browse_by_category_text">Browse by Category</string>
+    <string name="user_menu_text">User Menu</string>
+
+    <!--Fragment Register -->
+    <string name="personal_detail_text">Your Personal Details</string>
+    <string name="as_guest_text">Register As Guest</string>
+    <string name="subscribe_text">Subscribe</string>
+    <string name="Yes_text">Yes </string>
+    <string name="No_text">No </string>
+
+    <!--Fragment Edit Address -->
+    <string name="company_text">Your Company Name</string>
+    <string name="address_text">Enter Your Address</string>
+    <string name="add_address_text">Add Address</string>
+    <string name="Address2_text">Address2</string>
+    <string name="default_address_text">Default Address</string>
+    <string name="city_text">Enter Your City</string>
+    <string name="country_text">Country</string>
+    <string name="state_text">State/Region</string>
+    <string name="post_code_text">Enter Postal Code</string>
+
+
+    <!--Fragment Categories -->
+    <string name="inquiry_text">Inquiry</string>
+
+    <string name="inquiry_hint_">enter your inquiry here</string>
+
+    <!--Fragment Edit Account -->
+    <string name="edit_account_text">Edit Account</string>
+    <!--Fragment Edit Account -->
+    <string name="login_text">Login</string>
+
+    <!--Fragment Product Detail-->
+    <string name="added_date_text">Added Date</string>
+    <string name="stock_status_text">Stock Status</string>
+    <string name="available_option_text">Available Options</string>
+    <string name="rate_us_text">Rate Us</string>
+    <string name="write_review_text">Write Review</string>
+    <string name="review_text">Review</string>
+    <string name="review_counter_text">0 Reviews / Write a Review</string>
+    <string name="rating_text">Rating</string>
+
+
+    <string name="filter_text">Filter</string>
+    <string name="no_filter">No Filter Available!</string>
+    <string name="sort_text">Sort</string>
+
+    <!--Misc...-->
+    <string name="contact_us_text">Contact Us</string>
+    <string name="about_us_text">About Us</string>
+    <string name="your_name_text">Your Name</string>
+    <string name="your_name_hint">Enter your name</string>
+    <string name="first_name_text">First Name</string>
+    <string name="first_name_hint">Enter your first name</string>
+    <string name="last_name_text">Last Name</string>
+    <string name="last_name_hint">Enter your last name</string>
+    <string name="email_text">E-Mail Address</string>
+    <string name="email_hint">Enter your email id</string>
+    <string name="password_text">Your Password</string>
+    <string name="your_password_text">Enter Your Password</string>
+    <string name="confirm_password_text">Confirm Your Password</string>
+    <string name="new_password_text">Enter New Password</string>
+    <string name="old_password_text">Enter Current Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="new_password_hint">Confirm new password</string>
+    <string name="phone_text">Phone #</string>
+    <string name="phone_hint">Enter your phone #</string>
+    <string name="submit_text">Submit</string>
+    <string name="continue_text">Continue</string>
+
+    <string name="required">Required!</string>
+    <string name="information_text">Information</string>
+    <string name="exit_app_text">Click Again to Exit App</string>
+    <string name="empty_cart_text">There are no products in your cart!</string>
+    <string name="enter_coupon_code">Please enter a coupon code!</string>
+    <string name="apply">Apply</string>
+    <string name="ok">OK</string>
+    <string name="pass_mis_match">Password Mis-match</string>
+    <string name="login_or_register">You must login  or create an account to continue</string>
+    <string name="no_address_msg">You must have at least one address</string>
+    <string name="no_shipping_method">No Shipping options are available</string>
+    <string name="no_payment_method">No Payment options are available</string>
+
+    <string name="empty_fields">Some Fields are Empty</string>
+    <string name="quantity_info">Quantity Must be Greater than 0</string>
+    <string name="address_book_title">Address Book Entries</string>
+
+    <string name="select_state">Select State</string>
+    <string name="select_country">Select Country</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="wifi">Wi-Fi</string>
+
+
+    <string name="edit_address_context">Press And Hold An Address To Edit OR Delete</string>
+    <string name="add_address_context">Press The Plus Button To Add Address</string>
+
+
+    <string name="cancel_text">Cancel</string>
+    <string name="show_text">Show</string>
+
+    <string name="description_text">Description:</string>
+    <string name="welcome_text">Welcome</string>
+
+    <string name="logo">Logo</string>
+
+    <!--Fragment Order Detail-->
+    <string name="image_text">Image</string>
+    <string name="name_text">Name</string>
+    <string name="brand_text">Brand</string>
+    <string name="model_text">Model</string>
+    <string name="qty_text">Qty</string>
+    <string name="price_text">Price</string>
+    <string name="special_text">Special</string>
+    <string name="total_text">Total</string>
+    <string name="shipping_cost_text">Shipping Cost</string>
+    <string name="sub_total_text">Sub Total</string>
+    <string name="grand_total_text">Grand Total</string>
+
+    <!--Fragment Order History-->
+    <string name="order_history_text">Order History</string>
+    <string name="view_order_history_text">View Order History</string>
+
+
+    <!--Fragment Address Book-->
+    <string name="address_book_text">Address Book</string>
+
+    <!--Fragment Transactions-->
+    <string name="transactions_text">Transactions</string>
+
+    <!--Fragment Newsletter-->
+    <string name="newsletter_text">Newsletter</string>
+
+    <!--Fragment Reward Points-->
+    <string name="reward_points_text">Reward Points</string>
+
+    <!--Fragment Return History-->
+    <string name="return_history_text">Return History</string>
+
+
+    <!--Fragment Order Detail-->
+    <string name="order_detail_text">Order Details</string>
+    <string name="order_id_text">Order ID : </string>
+    <string name="order_date_text">Order Date : </string>
+    <string name="order_status_text">Order Status : </string>
+    <string name="order_quantity_text">Quantity : </string>
+    <string name="total_amount_text">Total Amount : </string>
+    <string name="payment_method_text">Payment Method : </string>
+    <string name="shipping_method_text">Shipping Method : </string>
+    <string name="view_order_detail_text">View Order Detail</string>
+    <string name="my_orders_text">View Order Detail</string>
+
+    <string name="my_orders_return">Return ID</string>
+
+
+    <string name="add_to_cart_text">Add to Cart</string>
+
+    <string name="categories">Featured Categories</string>
+    <!--<string name="banner">Special Offer</string>-->
+    <string name="trending">Trending Products</string>
+    <string name="recombination">Recombination</string>
+    <string name="latest">Latest Products</string>
+    <string name="featured">Featured Products</string>
+    <string name="bestseller">Best Seller</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="save">Save</string>
+
+
+    <string name="my_account">My Account</string>
+
+    <string name="account">Account</string>
+    <string name="logout">Logout</string>
+    <string name="cart">Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="text_disc">Discount</string>
+    <string name="disc">Discount</string>
+
+
+    <string name="error_fetching_data">Error Fetching Data From Server!…</string>
+    <string name="no_data">No Data to Show</string>
+    <string name="an_error">An Error Occurred!</string>
+
+
+    <string name="soft_by">Sort By:</string>
+
+    <string-array name="sort_array">
+
+        <item>Default</item>
+        <item>Name (A - Z)</item>
+        <item>Name (Z - A)</item>
+        <item>Price (Low to High)</item>
+        <item>Price (High to Low)</item>
+        <item>Model (A - Z)</item>
+        <item>Model (Z - A)</item>
+
+    </string-array>
+
+
+    <array name="colors_array">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/text_color</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/textColorStrike</item>
+    </array>
+
+
+</resources>
