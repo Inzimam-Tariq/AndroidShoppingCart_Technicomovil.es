@@ -18,17 +18,8 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
-import es.tecnicomovil.app.utils.AppConstants;
-import es.tecnicomovil.app.R;
-import es.tecnicomovil.app.controller.ProductImagePreviewAdapter;
-import es.tecnicomovil.app.controller.ProductOptionsAdapter;
-import es.tecnicomovil.app.model.Options;
-import es.tecnicomovil.app.model.Product;
-import es.tecnicomovil.app.model.ProductOptionValueItem;
-import es.tecnicomovil.app.view.activities.FetchData;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -36,6 +27,15 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import es.tecnicomovil.app.R;
+import es.tecnicomovil.app.controller.ProductImagePreviewAdapter;
+import es.tecnicomovil.app.controller.ProductOptionsAdapter;
+import es.tecnicomovil.app.model.Options;
+import es.tecnicomovil.app.model.Product;
+import es.tecnicomovil.app.model.ProductOptionValueItem;
+import es.tecnicomovil.app.utils.AppConstants;
+import es.tecnicomovil.app.view.activities.FetchData;
 
 import static es.tecnicomovil.app.utils.AppConstants.FORCE_CANCELED;
 import static es.tecnicomovil.app.utils.AppConstants.PRODUCT_DETAIL_REQUEST_CODE;
@@ -237,10 +237,11 @@ public class FragProductDetail extends MyBaseFragment implements View.OnClickLis
                             String val = subOptionsList.get(k).getName();
                             utils.printLog("Color Value = ", val);
                         }
-                        optionsList.add(new Options(optionsObj.optString("product_option_id")
-                                , subOptionsList
-                                , optionsObj.optString("name")
-                                , optionsObj.optString("option_id")));
+                        if (!subOptionsList.isEmpty() && subOptionsList.size() > 0)
+                            optionsList.add(new Options(optionsObj.optString("product_option_id")
+                                    , subOptionsList
+                                    , optionsObj.optString("name")
+                                    , optionsObj.optString("option_id")));
                     }
                     if (!optionsList.isEmpty() || optionsList.size() > 0) {
                         availableOptionsLayout.setVisibility(View.VISIBLE);
@@ -275,6 +276,13 @@ public class FragProductDetail extends MyBaseFragment implements View.OnClickLis
         switch (v.getId()) {
             
             case R.id.add_to_cart_btn:
+                if (optionsList.size() != AppConstants.optionsList.size()) {
+                    utils.showAlert(R.string.information_text, R.string.select_option_text,
+                            false,
+                            R.string.ok, null,
+                            R.string.cancel_text, null);
+                    return;
+                }
                 Bundle bundle = new Bundle();
                 bundle.putString("id", product.getProductId());
                 utils.printLog("ProductId", "ID=" + product.getProductId());
